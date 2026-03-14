@@ -1,8 +1,9 @@
 {
-  "name": "student-portal",
+  "name": "student-result-and-admitcard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": " https://talim4729-collab.github.io/student-result-and-admitcard/",
  "scripts": {
   "dev": "vite",
   "build": "vite build",
